@@ -98,11 +98,16 @@ border-bottom: 3px solid #6c2b0b;
         margin-top: 8px;
         margin-left: 8px;
     }
+
+    section{
+    min-height: 100vh;
+    padding: 5rem 2% 2rem;
+}
 }
 
 section{
     min-height: 100vh;
-    padding: 5rem 2% 2rem;
+    padding: 5rem 8% 2rem;
 }
 
 .home{
