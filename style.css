@@ -286,7 +286,9 @@ span{
 
     .email{
     font-size: 1.6rem;
-    margin-top: 30px;
+    margin-top: 300px;
+    padding-left: 10px;
+    border-left: 2px solid #fbf1e0;
     display: block;
 }
 }
