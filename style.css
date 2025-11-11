@@ -28,7 +28,7 @@ header{
     top: 0;
     left: 0;
     width: 100%;
-    padding: 1rem 3%;
+    padding: 0 2%;
     background-color: transparent;
     filter: drop-shadow(10px);
     display: flex;
@@ -93,11 +93,16 @@ border-bottom: 3px solid #6c2b0b;
         border-radius: 0.5rem;
         border-bottom: 0.5rem solid #6c2b0b;
     }
+
+    header{
+        margin-top: 8px;
+        margin-left: 8px;
+    }
 }
 
 section{
     min-height: 100vh;
-    padding: 5rem 9% 5rem;
+    padding: 5rem 2% 2rem;
 }
 
 .home{
@@ -286,7 +291,7 @@ span{
 
     .email{
     font-size: 1.6rem;
-    margin-top: 300px;
+    margin-top: 200px;
     padding-left: 10px;
     border-left: 2px solid #fbf1e0;
     display: block;
